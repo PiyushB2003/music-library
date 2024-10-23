@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg" 
+        },
+        {
+            "id": 2,
+            "title": "Piano Essentials",
+            "slug": "piano-essentials",
+            "description": "Master the essentials of piano playing with step-by-step lessons for beginners.",
+            "price": 79.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Drumming Basics",
+            "slug": "drumming-basics",
+            "description": "Get started with drumming techniques and learn to play basic rhythms.",
+            "price": 59.99,
+            "instructor": "Mike Johnson",
+            "isFeatured": true,
+            "image": "/courses/drumming.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Violin for Beginners",
+            "slug": "violin-for-beginners",
+            "description": "Begin your journey to playing the violin with our beginner-friendly course.",
+            "price": 89.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Improve your vocal skills and learn techniques to enhance your singing.",
+            "price": 69.99,
+            "instructor": "Chris Brown",
+            "isFeatured": true,
+            "image": "/courses/singing.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Bass Guitar Basics",
+            "slug": "bass-guitar-basics",
+            "description": "Learn the foundations of playing bass guitar and start grooving.",
+            "price": 64.99,
+            "instructor": "Lisa Turner",
+            "isFeatured": false,
+            "image": "/courses/bass-guitar.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Advanced Music Theory",
+            "slug": "advanced-music-theory",
+            "description": "Dive deep into music theory and enhance your understanding of music.",
+            "price": 119.99,
+            "instructor": "David Wilson",
+            "isFeatured": true,
+            "image": "/courses/music-theory.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Learn how to produce electronic music using the latest software tools.",
+            "price": 129.99,
+            "instructor": "Kevin Martin",
+            "isFeatured": true,
+            "image": "/courses/electronic-music.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Ukulele for Beginners",
+            "slug": "ukulele-for-beginners",
+            "description": "Start playing the ukulele with easy-to-follow lessons for newcomers.",
+            "price": 49.99,
+            "instructor": "Nina Taylor",
+            "isFeatured": false,
+            "image": "/courses/ukulele.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Songwriting Essentials",
+            "slug": "songwriting-essentials",
+            "description": "Learn the art of songwriting and discover techniques to write your own songs.",
+            "price": 109.99,
+            "instructor": "Robert Miller",
+            "isFeatured": true,
+            "image": "/courses/songwriting.jpg"
+        }
+    ]
+}
